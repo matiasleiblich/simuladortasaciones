@@ -1,0 +1,23 @@
+
+<svg width="1800" height="306" viewBox="0 0 900 153" xmlns="http://www.w3.org/2000/svg">
+  
+  <rect x="18" y="114" width="16" height="39" fill="#1a3a5c" opacity="0.85"/>
+  <rect x="38" y="91"  width="18" height="62" fill="#162d4a" opacity="0.85"/>
+  <rect x="60" y="66"  width="17" height="87" fill="#1e4468" opacity="0.85"/>
+  <rect x="81" y="97"  width="17" height="56" fill="#162d4a" opacity="0.85"/>
+  <rect x="102" y="118" width="14" height="35" fill="#1a3a5c" opacity="0.85"/>
+  <rect x="120" y="100" width="17" height="53" fill="#1e4468" opacity="0.85"/>
+  <rect x="141" y="124" width="13" height="29" fill="#162d4a" opacity="0.85"/>
+  <rect x="63" y="73" width="5" height="5" fill="#c9a227" opacity="0.95"/>
+  <rect x="72" y="73" width="5" height="5" fill="#c9a227" opacity="0.95"/>
+  <rect x="63" y="84" width="5" height="5" fill="#c9a227" opacity="0.55"/>
+  <rect x="122" y="107" width="5" height="5" fill="#c9a227" opacity="0.8"/>
+  <rect x="40"  y="98" width="5" height="5" fill="#c9a227" opacity="0.65"/>
+  <rect x="72" y="84" width="5" height="5" fill="#4a9fd4" opacity="0.6"/>
+  <rect x="83" y="104" width="5" height="5" fill="#4a9fd4" opacity="0.7"/>
+  <rect x="122" y="118" width="5" height="5" fill="#4a9fd4" opacity="0.5"/>
+  <line x1="164" y1="22" x2="164" y2="137" stroke="#b8960c" stroke-width="1" opacity="0.7"/>
+  <text x="184" y="72" font-family="Helvetica Neue, Arial, sans-serif" font-size="12" fill="#b8960c" letter-spacing="7" textLength="290" lengthAdjust="spacing">INGENIERO CIVIL  ·  REAL ESTATE</text>
+  <text x="182" y="120" font-family="Georgia, Times New Roman, serif" font-size="52" font-weight="700" fill="#0d1b2e">Matías Leiblich</text>
+  <line x1="182" y1="130" x2="472" y2="130" stroke="#b8960c" stroke-width="1" opacity="0.6"/>
+</svg>

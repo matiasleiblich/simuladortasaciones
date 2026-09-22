@@ -1,0 +1,23 @@
+
+<svg width="1200" height="1020" viewBox="0 0 600 340" xmlns="http://www.w3.org/2000/svg">
+  <rect width="600" height="340" fill="#ffffff"/>
+  <rect x="20"  y="180" width="28" height="160" fill="#1a3a5c" opacity="0.85"/>
+  <rect x="52"  y="140" width="32" height="200" fill="#1e4468" opacity="0.85"/>
+  <rect x="88"  y="60"  width="30" height="280" fill="#162d4a" opacity="0.85"/>
+  <rect x="122" y="148" width="30" height="192" fill="#1e4468" opacity="0.85"/>
+  <rect x="156" y="182" width="24" height="158" fill="#1a3a5c" opacity="0.85"/>
+  <rect x="92"  y="70"  width="8" height="8" fill="#c9a227" opacity="0.95"/>
+  <rect x="106" y="70"  width="8" height="8" fill="#c9a227" opacity="0.95"/>
+  <rect x="92"  y="86"  width="8" height="8" fill="#c9a227" opacity="0.55"/>
+  <rect x="54"  y="150" width="8" height="8" fill="#c9a227" opacity="0.7"/>
+  <rect x="124" y="158" width="8" height="8" fill="#c9a227" opacity="0.75"/>
+  <rect x="106" y="86"  width="8" height="8" fill="#4a9fd4" opacity="0.6"/>
+  <rect x="124" y="175" width="8" height="8" fill="#4a9fd4" opacity="0.65"/>
+  <rect x="158" y="192" width="8" height="8" fill="#4a9fd4" opacity="0.55"/>
+  <line x1="196" y1="20" x2="196" y2="320" stroke="#b8960c" stroke-width="1.2" opacity="0.7"/>
+  <text x="218" y="75"  font-family="Helvetica Neue, Arial, sans-serif" font-size="15" fill="#b8960c" letter-spacing="6">ING. CIVIL</text>
+  <text x="218" y="98"  font-family="Helvetica Neue, Arial, sans-serif" font-size="15" fill="#b8960c" letter-spacing="6">REAL ESTATE</text>
+  <text x="214" y="210" font-family="Georgia, Times New Roman, serif" font-size="82" font-weight="700" fill="#0d1b2e">Matías</text>
+  <text x="214" y="302" font-family="Georgia, Times New Roman, serif" font-size="82" font-weight="700" fill="#0d1b2e">Leiblich</text>
+  <line x1="214" y1="318" x2="578" y2="318" stroke="#b8960c" stroke-width="1" opacity="0.65"/>
+</svg>
