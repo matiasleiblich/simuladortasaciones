@@ -888,7 +888,7 @@ function envEsp(t){
   const sup=t==='lote'?(document.getElementById('sup-lote').value||'—'):'—';
   const label=t==='casa'?'casa':t==='gba'?'departamento en GBA':'lote o terreno';
   const msg=encodeURIComponent('Hola! Me contacto porque quiero tasar mi '+label+'.\n\nNombre: '+nom+'\nDirección: '+dir+(t==='lote'?'\nSuperficie aprox.: '+sup+' m²':'')+'\nMi WhatsApp: '+w);
-  const wa=document.getElementById('wa-'+t);wa.href='https://wa.me/5491161737552?text='+msg;
+  const wa=document.getElementById('wa-'+t);wa.href='https://wa.me/5491135987695?text='+msg;
   const p={nombre:nom,email:'—',wpp:w,tipo:t==='casa'?'Casa':t==='gba'?'Depto GBA':'Lote/Terreno',barrio:'—',sub:'—',direccion:dir,m2cub:'—',m2semi:'—',m2desc:'—',tiene_balcon:'—',ambientes:'—',piso:'—',pisos_edificio:'—',orientacion:'—',disposicion:'—',estado_unidad:'—',antiguedad:'—',cochera:'—',baulera:'—',expensas:'—',amenities:'—',vecinos:'—',precio_cierre:'(requiere visita)',precio_pub:'(requiere visita)',precio_prueba:'(requiere visita)'};
   emailjs.send('service_9y4bg4h','template_s5jl3g9',p).catch(e=>console.warn(e));
   gsPost(p);
